@@ -1,0 +1,11 @@
+skill: card_krueger_replication
+input: data/raw/public.csv
+command: python code/run_all.py
+outputs:
+  tables: outputs/tables
+  figures: outputs/figures
+  report: report_final.md
+parameters:
+  part_time_weight: 0.5
+  permanent_closure_status: 3
+  temporary_closure_status: [2, 4, 5]
