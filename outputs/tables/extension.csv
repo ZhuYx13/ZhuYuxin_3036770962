@@ -1,0 +1,9 @@
+extension,model,NJ_coef,NJ_se,GAP_coef,GAP_se,N
+part-time weight = 0.4,NJ + controls,2.3341921450597116,1.2068538126561779,,,351
+part-time weight = 0.4,GAP + controls,,,16.581757313896887,6.288717482383697,351
+part-time weight = 0.5,NJ + controls,2.2815073033524227,1.1970435010785685,,,351
+part-time weight = 0.5,GAP + controls,,,16.363068316829317,6.2372505196017505,351
+part-time weight = 0.6,NJ + controls,2.2288224616451333,1.2030075493604724,,,351
+part-time weight = 0.6,GAP + controls,,,16.14437931976174,6.268753531907318,351
+exclude New Jersey shore stores,NJ + controls,2.5910864340767876,1.1948698194032885,,,320
+exclude New Jersey shore stores,GAP + controls,,,18.66375969477643,6.396024690658222,320
